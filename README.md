@@ -1,24 +1,12 @@
-# mplayer
+# Mplayer, your web music player
+sorry can't think of any good name:)
 
-## Project setup
-```
-npm install
-```
+## Tachnology Used
+### Vue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It's a simple webapp just to try out and get a overview of Vue framework
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## To Check it out
+clone or download files and run **npm run serve**
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Thanks:)
