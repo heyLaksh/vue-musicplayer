@@ -37,19 +37,19 @@ export default {
       isPlaying: false,
       songs: [
         {
-          title: 'Haa Hum Peete Hai',
-          artist: 'Millind Gaba',
-          src: require('./assets/Haa.mp3')
+          title: 'Cold',
+          artist: 'NEFFEX',
+          src: require('./assets/NEFFEX-Cold.mp3')
         },
         {
-          title: 'Naam',
-          artist: 'Millind Gaba & Tulsi Kumar',
-          src: require('./assets/Naam.mp3')
+          title: 'Crown',
+          artist: 'NEFFEX',
+          src: require('./assets/NEFFEX-Crown.mp3')
         },
         {
-          title: 'Closer',
-          artist: 'The Chainsmokers',
-          src: require('./assets/Closer.mp3')
+          title: 'Grateful',
+          artist: 'NEFFEX',
+          src: require('./assets/NEFFEX-Grateful.mp3')
         }
       ],
       player: new Audio()
